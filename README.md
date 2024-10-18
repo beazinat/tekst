@@ -1,2 +1,2 @@
 # Tekst
-Software de letras de música
+Coleção web de letras de música
